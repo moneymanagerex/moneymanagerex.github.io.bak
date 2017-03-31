@@ -12,5 +12,4 @@ Money Manager Ex is an easy to use, money management application.
 #### desktop version has @guanlisheng
 
 ### Support or Contact
-<>
 {% include developer.geojson.html %}
