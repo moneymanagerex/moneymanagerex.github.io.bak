@@ -2,7 +2,7 @@ title: Money Manager EX
 description: 
 google_analytics: UA-51521761-8
 show_downloads: false
-theme: jekyll-theme-dinky
+theme: jekyll-theme-hacker
 
 gems:
   - jekyll-mentions
